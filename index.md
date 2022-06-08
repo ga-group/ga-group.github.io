@@ -1,4 +1,4 @@
 data.ga-group.nl
 ================
 
-- [MarketsIndividuals](/iso10383/MarketsIndividuals.ttl)
+- [iso10383](https://github.com/ga-group/iso10383/)/[MarketsIndividuals](/iso10383/MarketsIndividuals.ttl)
