@@ -14,3 +14,11 @@ and FIBO's [BusinessCentersIndividuals](https://spec.edmcouncil.org/fibo/ontolog
 enriched with alignments and timezone information.
 
 - [BusinessCentersIndividuals.ttl](/iso10383/BusinessCentersIndividuals.ttl)
+
+
+[[UN/LOCODE]](https://data.ga-group.nl/un-locode/)
+==================================================
+
+This is the official UN/LOCODE list in our namespace.
+
+- [un-locode.ttl](/un-locode/un-locode.ttl)
