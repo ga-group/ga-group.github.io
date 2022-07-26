@@ -1,6 +1,6 @@
 A selection of financial master data.
 
-[ISO 10383](https://data.ga-group.nl/iso10383/)
+[ISO 10383](/iso10383/)
 ===============================================
 
 Commonly known as MICs.  This set is a merge of the official ISO20022 publication
@@ -16,9 +16,17 @@ enriched with alignments and timezone information.
 - [BusinessCentersIndividuals.ttl](/iso10383/BusinessCentersIndividuals.ttl)
 
 
-[[UN/LOCODE]](https://data.ga-group.nl/un-locode/)
-==================================================
+[UN/LOCODE](/un-locode/)
+================================================
 
 This is the official UN/LOCODE list in our namespace.
 
 - [un-locode.ttl](/un-locode/un-locode.ttl)
+
+
+[comcat](/comcat/)
+==================
+
+Classification taxonomy for commodities.
+
+- [comcat.skos.ttl](/comcat/comcat.skos.ttl)
