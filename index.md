@@ -30,3 +30,9 @@ This is the official UN/LOCODE list in our namespace.
 Classification taxonomy for commodities.
 
 - [comcat.skos.ttl](/comcat/comcat.skos.ttl)
+
+
+region
+======
+
+Geographical and geoeconomical reference data.
