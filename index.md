@@ -1,7 +1,7 @@
 A selection of financial master data.
 
-[ISO 10383](https://ga-group.github.io/iso10383/)
-===============================================
+[ISO 10383](/iso10383/)
+=======================
 
 Commonly known as MICs.  This set is a merge of the official ISO20022 publication
 and FIBO's [MarketsIndividuals](https://spec.edmcouncil.org/fibo/ontology/FBC/FunctionalEntities/MarketsIndividuals/),
@@ -16,15 +16,15 @@ enriched with alignments and timezone information.
 - [BusinessCentersIndividuals.ttl](https://ga-group.github.io/iso10383/BusinessCentersIndividuals.ttl)
 
 
-[UN/LOCODE](https://ga-group.github.io/un-locode/)
-================================================
+[UN/LOCODE](/un-locode/)
+========================
 
 This is the official UN/LOCODE list in our namespace.
 
 - [un-locode.ttl](https://ga-group.github.io/un-locode/un-locode.ttl)
 
 
-[comcat](https://ga-group.github.io/comcat/)
+[comcat](/comcat/)
 ==================
 
 Classification taxonomy for commodities.
