@@ -1,0 +1,9 @@
+[submodule "comcat"]
+	path = comcat
+	url = https://github.com/ga-group/comcat
+[submodule "un-locode"]
+	path = un-locode
+	url = https://github.com/ga-group/un-locode
+[submodule "iso10383"]
+	path = iso10383
+	url = https://github.com/ga-group/iso10383
