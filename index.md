@@ -7,13 +7,13 @@ Commonly known as MICs.  This set is a merge of the official ISO20022 publicatio
 and FIBO's [MarketsIndividuals](https://spec.edmcouncil.org/fibo/ontology/FBC/FunctionalEntities/MarketsIndividuals/),
 enriched with alignments.
 
-- [MarketsIndividuals.ttl](https://ga-group.github.io/iso10383/MarketsIndividuals.ttl)
+- [MarketsIndividuals.ttl](/iso10383/MarketsIndividuals.ttl)
 
 This set is a merge of the official ISDA/FpML business centres specification
 and FIBO's [BusinessCentersIndividuals](https://spec.edmcouncil.org/fibo/ontology/FBC/FunctionalEntities/BusinessCentersIndividuals/),
 enriched with alignments and timezone information.
 
-- [BusinessCentersIndividuals.ttl](https://ga-group.github.io/iso10383/BusinessCentersIndividuals.ttl)
+- [BusinessCentersIndividuals.ttl](/iso10383/BusinessCentersIndividuals.ttl)
 
 
 [UN/LOCODE](/un-locode/)
@@ -21,7 +21,7 @@ enriched with alignments and timezone information.
 
 This is the official UN/LOCODE list in our namespace.
 
-- [un-locode.ttl](https://ga-group.github.io/un-locode/un-locode.ttl)
+- [un-locode.ttl](/un-locode/un-locode.ttl)
 
 
 [comcat](/comcat/)
@@ -29,7 +29,7 @@ This is the official UN/LOCODE list in our namespace.
 
 Classification taxonomy for commodities.
 
-- [comcat.skos.ttl](https://ga-group.github.io/comcat/comcat.skos.ttl)
+- [comcat.skos.ttl](/comcat/comcat.skos.ttl)
 
 
 region
