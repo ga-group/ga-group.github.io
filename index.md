@@ -32,7 +32,7 @@ Classification taxonomy for commodities.
 - [comcat.skos.ttl](/comcat/comcat.skos.ttl)
 
 
-region
-======
+[region](/region/)
+==================
 
-Geographical and geoeconomical reference data.
+Geographic, geoeconomic, and geopolitical reference data.
