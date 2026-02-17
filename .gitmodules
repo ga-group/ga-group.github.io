@@ -7,3 +7,6 @@
 [submodule "iso10383"]
 	path = iso10383
 	url = https://github.com/ga-group/iso10383
+[submodule "region"]
+	path = region
+	url = https://github.com/ga-group/region
