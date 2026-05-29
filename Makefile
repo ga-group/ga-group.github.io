@@ -1,6 +1,6 @@
 all: update
 
-DIRS = comcat iso10383 region un-locode
+DIRS = comcat iso10383 region un-locode ics
 
 update:
 	git submodule foreach git pull
